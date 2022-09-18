@@ -129,4 +129,5 @@ async def on_message(message):
                     return
     
 # Bot起動
-client.run(TOKEN)
+client.run(TOKEN MTAxMjMyNTA3MTM3MDYwNDU1NA.Gl4lBM.rSOOaT3uEVI-PNIE3zdC7-eO4bkywiYJpHWc-M
+)
